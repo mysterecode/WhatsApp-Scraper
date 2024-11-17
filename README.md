@@ -12,3 +12,7 @@ A Python-based tool to scrape WhatsApp group links (`chat.whatsapp.com`) or phon
 1. Install required dependencies (`requirements.txt`).
 2. Run the script, select the desired scrape type, and provide the target website URL.
 3. Results are saved to a user-defined text file.
+
+## Contact
+For custom automation or scraping projects, feel free to reach out to me via Telegram:  
+**[mysteredev](https://t.me/mysteredev)**
